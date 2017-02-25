@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DragnDrop</string>
+    <string name="intro">place this strip in order of your preference.</string>
+    <string name="option_1">Apple</string>
+    <string name="option_2">Cake</string>
+    <string name="option_3">Cheese</string>
+
+    <string name="Choice_1">Most favourite</string>
+    <string name="Choice_2">-</string>
+    <string name="Choice_3">Least favourite</string>
+
+</resources>
